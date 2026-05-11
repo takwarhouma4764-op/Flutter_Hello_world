@@ -1,4 +1,4 @@
-# TP1 - Hello World Flutter 🐦
+# - Hello World Flutter 🐦
 
 Une application Flutter simple à deux pages illustrant la navigation, la saisie utilisateur et l'affichage personnalisé.
 
